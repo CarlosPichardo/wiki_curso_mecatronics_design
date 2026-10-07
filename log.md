@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-10-07
+* **Deletion**: Deleted [Tipos de Requisitos](/tipos-de-requisitos.md).
 * **Deletion**: Deleted [Ingenieria de Requisitos](/ingenieria-de-requisitos.md).
 * **Creation**: Created [PRueba1](/Ingenieria-de-Requisitos/prueba1.md).
 * **Update**: Modified [Tipos de Requisitos](/tipos-de-requisitos.md).
