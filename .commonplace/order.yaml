@@ -1,5 +1,5 @@
 # Commonplace sidebar order — edited via drag & drop in the wiki UI, safe to edit by hand.
 # Maps a directory path ("" for the root) to its pages/subdirectories in display order.
 '':
-  - Fundamentos-de-Ingenieria-de-Sistemas
+  - 1-Fundamentos-de-Ingenieria-de-Sistemas
   - ingenieria-de-requisitos
