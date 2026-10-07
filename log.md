@@ -1,6 +1,7 @@
 # Update Log
 
 ## 2026-10-07
+* **Creation**: Created [p2](/ingenieria-de-requisitos/p2.md).
 * **Move**: Moved [Ingenieria de Requisitos](/ingenieria-de-requisitos.md).
 * **Update**: Modified [Ingenieria de Requisitos](/ingenieria-de-requisitos.md).
 * **Creation**: Created [Ingenieria de Requisitos2](/ingenieria-de-requisitos.md).
